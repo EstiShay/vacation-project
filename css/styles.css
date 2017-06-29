@@ -1,0 +1,20 @@
+h2 {
+  font-family: Garamond;
+}
+
+.jumbotron {
+  background-image: url(fijimed.jpg);
+}
+
+.jumbotron h1 {
+  color: white;
+}
+
+.jumbotron p {
+  color: white;
+}
+
+
+.water {
+background-color: #8beeef;
+}
